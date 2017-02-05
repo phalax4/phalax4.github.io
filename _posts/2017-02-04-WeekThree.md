@@ -19,4 +19,4 @@ So far I feel that the class has been pretty good. I liked the speaker from Bloo
 
 5. **What's my pick-of-the-week or tip-of-the-week?**
 **Tip of the Week:** A good blog summarizing various statistical models
-http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html
+<http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html>
