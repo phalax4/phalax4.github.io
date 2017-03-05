@@ -7,7 +7,7 @@ title: WeekSeven
 Volunteered for Explore UT today at the CS Roadshow booth and it was pretty fun showing kids the Google Cardboard and some coding activites. Other than that this past week I studied mainly for Test #1 and made the study sheet. I found that the content of discussion on piazza pertaining to studying for the test was really good for reviewing. I practiced a lot possible test question implementations. I did not do as well as I though I would on the test however, so that was a little disappointing. However now that I know how the test is like, I can better prepare for next time. My group also started to discuss more possible ideas for the upcoming project.
 
 2. **What's in your way?**
-Nothing is currently standing out as an obstacle.
+I am having a hard time coming up with ideas for the new project, in particular on ideas to transform existing API data into something useful.
 
 3. **What will you do next week?**
 Next week will be the planning and researching phase for the upcoming project. Our slack is pretty low key so I think my group needs to get together physically to get things moving along in a more efficient manner. Our group plans to look at more API's that are out there, and to draw up plans for how to use that data.
