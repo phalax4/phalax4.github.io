@@ -4,7 +4,7 @@ title: WeekSeven
 ---
 
 1. **What did you do this past week?**
-This past week I studied mainly for Test #1 and made the study sheet. I found that the content of discussion on piazza pertaining to studying for the test was really good for reviewing. I practiced a lot possible test question implementations. I did not do as well as I though I would on the test however, so that was a little disappointing. However now that I know how the test is like, I can better prepare for next time. My group also started to discuss more possible ideas for the upcoming project.
+Volunteered for Explore UT today at the CS Roadshow booth and it was pretty fun showing kids the Google Cardboard and some coding activites. Other than that this past week I studied mainly for Test #1 and made the study sheet. I found that the content of discussion on piazza pertaining to studying for the test was really good for reviewing. I practiced a lot possible test question implementations. I did not do as well as I though I would on the test however, so that was a little disappointing. However now that I know how the test is like, I can better prepare for next time. My group also started to discuss more possible ideas for the upcoming project.
 
 2. **What's in your way?**
 Nothing is currently standing out as an obstacle.
