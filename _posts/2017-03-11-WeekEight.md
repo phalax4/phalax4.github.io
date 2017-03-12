@@ -13,7 +13,7 @@ Coordinating with teammates on who is going to do what since our slack chat is n
 It is spring break so I plan on catching up with readings and classes. I also plan on getting more organized with the project team and putting in some sort of process to get work down and lastly to actually start the phase 1 work.
 
 4. **What's my experience of the class?**
-I like the talks as they have been extremely informative on technologies that I have not heard of before like the Redhat platform but they can be a bit too long for my liking as the presentation seems to start to drag on after about 45 min. Overall I am pleasantly suprised with the strange rules of python, and these nuances seem like novelties which keeps my interest in the language as a whole. 
+I like the talks as they have been extremely informative on technologies that I have not heard of before like the Redhat platform but they can be a bit too long for my liking as the presentation seems to start to drag on after about 45 min. Overall I am pleasantly suprised with the strange rules of python, and these nuances seem like novelties which keeps my interest in the language as a whole. However sometimes the implications of the nuances go over my head and it sometimes fustrates me when I miss such a thing.
 
 5. **What's my pick-of-the-week or tip-of-the-week?**
 **Tip of the Week:** Somone put a lot of effort into making this.
