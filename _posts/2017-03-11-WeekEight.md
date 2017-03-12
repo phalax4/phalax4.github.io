@@ -16,5 +16,5 @@ It is spring break so I plan on catching up with readings and classes. I also pl
 I like the talks as they have been extremely informative on technologies that I have not heard of before like the Redhat platform but they can be a bit too long for my liking as the presentation seems to start to drag on after about 45 min. Overall I am pleasantly suprised with the strange rules of python, and these nuances seem like novelties which keeps my interest in the language as a whole. 
 
 5. **What's my pick-of-the-week or tip-of-the-week?**
-**Tip of the Week:** Somone put a lot of effort into making this, so I thought it deserved to be shared.
+**Tip of the Week:** Somone put a lot of effort into making this.
 <http://hackaday.com/2017/03/11/a-clock-created-with-conways-life/>
